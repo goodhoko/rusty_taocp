@@ -1,0 +1,10 @@
+[package]
+name = "rusty_taocp"
+description = "Collection of algorithms and exercises from the Art of Computer Programming volume 1: Fundamental Algorithms by Donald E. Knuth implemented in Rust."
+authors = ["goodhoko"]
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
